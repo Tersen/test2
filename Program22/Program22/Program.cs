@@ -27,4 +27,4 @@ namespace Program22
         }
     }
 }
-
+//wszystko zle
